@@ -76,7 +76,7 @@ class Pixel extends StatelessWidget {
     return Container(
       decoration: BoxDecoration(
         border: Border.all(color: Colors.black),
-        color: Colors.red,
+        color: Color.fromRGBO(98, 0, 238, 1.0),
       ),
       width: 10.0,
       height: 10.0,
